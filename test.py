@@ -7,6 +7,3 @@ print(doc1)
 print(doc2)
 print(doc3)
 print(doc4)
-
-doc5 = '现在我增加了一行内容，但是里面有一个错别子'
-print(doc5)
